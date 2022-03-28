@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>cloudy-fi.com/server/</loc>
+    <loc>/server/</loc>
     <lastmod>2022-03-23T15:51:47-04:00</lastmod>
   </url><url>
-    <loc>cloudy-fi.com/ads/</loc>
+    <loc>/ads/</loc>
     <lastmod>2022-03-23T15:51:41-04:00</lastmod>
   </url><url>
-    <loc>cloudy-fi.com/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>cloudy-fi.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>cloudy-fi.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
