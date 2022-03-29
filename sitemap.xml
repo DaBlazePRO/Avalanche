@@ -2,13 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2022-03-29T17:07:31-04:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-03-29T17:07:31-04:00</lastmod>
+  </url><url>
+    <loc>/posts/roadmap/</loc>
+    <lastmod>2022-03-29T17:07:31-04:00</lastmod>
+  </url><url>
     <loc>/server/</loc>
     <lastmod>2022-03-23T15:51:47-04:00</lastmod>
   </url><url>
     <loc>/ads/</loc>
     <lastmod>2022-03-23T15:51:41-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/posts/season-2/</loc>
+    <lastmod>2021-10-02T17:01:53-04:00</lastmod>
+  </url><url>
+    <loc>/posts/launch/</loc>
+    <lastmod>2021-08-13T16:51:54-04:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
   </url><url>

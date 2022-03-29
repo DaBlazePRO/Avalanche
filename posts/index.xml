@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Avalanche</title>
-    <link>/</link>
-    <description>Recent content on Avalanche</description>
+    <title>Posts on Avalanche</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Avalanche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 17:07:31 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 17:07:31 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roadmap</title>
       <link>/posts/roadmap/</link>
@@ -18,25 +18,6 @@
 Aiming to launch this website by April 16 to fund the server
 #Server Season 3
 Aiming to launch the server by May 31</description>
-    </item>
-    
-    <item>
-      <title>Server Details</title>
-      <link>/server/</link>
-      <pubDate>Wed, 23 Mar 2022 15:51:47 -0400</pubDate>
-      
-      <guid>/server/</guid>
-      <description>Will be Added Soon</description>
-    </item>
-    
-    <item>
-      <title>Ads</title>
-      <link>/ads/</link>
-      <pubDate>Wed, 23 Mar 2022 15:51:41 -0400</pubDate>
-      
-      <guid>/ads/</guid>
-      <description> 
- (adsbygoogle = window.adsbygoogle || []).push({});   </description>
     </item>
     
     <item>
