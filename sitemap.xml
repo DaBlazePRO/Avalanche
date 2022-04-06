@@ -3,10 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-03-29T17:07:31-04:00</lastmod>
+    <lastmod>2022-04-05T18:35:18-04:00</lastmod>
+  </url><url>
+    <loc>/posts/plugins/</loc>
+    <lastmod>2022-04-05T18:35:18-04:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2022-03-29T17:07:31-04:00</lastmod>
+    <lastmod>2022-04-05T18:35:18-04:00</lastmod>
+  </url><url>
+    <loc>/posts/minecraft/</loc>
+    <lastmod>2022-04-05T18:33:59-04:00</lastmod>
+  </url><url>
+    <loc>/contact/</loc>
+    <lastmod>2022-04-04T16:05:16-04:00</lastmod>
   </url><url>
     <loc>/posts/roadmap/</loc>
     <lastmod>2022-03-29T17:07:31-04:00</lastmod>
@@ -14,7 +23,7 @@
     <loc>/server/</loc>
     <lastmod>2022-03-23T15:51:47-04:00</lastmod>
   </url><url>
-    <loc>/ads/</loc>
+    <loc>/about-us/</loc>
     <lastmod>2022-03-23T15:51:41-04:00</lastmod>
   </url><url>
     <loc>/posts/season-2/</loc>

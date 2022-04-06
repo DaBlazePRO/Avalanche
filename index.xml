@@ -6,7 +6,43 @@
     <description>Recent content on Avalanche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 17:07:31 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Apr 2022 18:35:18 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plugins</title>
+      <link>/posts/plugins/</link>
+      <pubDate>Tue, 05 Apr 2022 18:35:18 -0400</pubDate>
+      
+      <guid>/posts/plugins/</guid>
+      <description>Teleport /spawn - Teleports Player to spawn
+/tpayes - Accepts Player Teleport Request
+/tpano - Declines Player Teleport Request
+/tpa off - Disables Teleport Requests
+/tpa on - Enables Teleport Requests
+Paid Commands
+/tpa username - Sends a Request to Player to Teleport to Them
+/tpahere username - Sends Request to Player to Teleport Them to You
+Discord SRV Since this plugin isn&amp;rsquo;t active right now I won&amp;rsquo;t list any commands</description>
+    </item>
+    
+    <item>
+      <title>Minecraft</title>
+      <link>/posts/minecraft/</link>
+      <pubDate>Tue, 05 Apr 2022 18:33:59 -0400</pubDate>
+      
+      <guid>/posts/minecraft/</guid>
+      <description>Minecraft is a sandbox video game developed by Mojang Studios. The game was created by Markus &amp;ldquo;Notch&amp;rdquo; Persson in the Java programming language. Following several early private testing versions, it was first made public in May 2009 before fully releasing in November 2011, with Notch stepping down and Jens &amp;ldquo;Jeb&amp;rdquo; Bergensten taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time, with over 238 million copies sold and nearly 140 million monthly active users as of 2021.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 04 Apr 2022 16:05:16 -0400</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Discord: https://discord.gg/vqsWH7Hb9r
+Twitch: https://www.twitch.tv/dablazelive</description>
+    </item>
+    
     <item>
       <title>Roadmap</title>
       <link>/posts/roadmap/</link>
@@ -30,13 +66,12 @@ Aiming to launch the server by May 31</description>
     </item>
     
     <item>
-      <title>Ads</title>
-      <link>/ads/</link>
+      <title>About Us</title>
+      <link>/about-us/</link>
       <pubDate>Wed, 23 Mar 2022 15:51:41 -0400</pubDate>
       
-      <guid>/ads/</guid>
-      <description> 
- (adsbygoogle = window.adsbygoogle || []).push({});   </description>
+      <guid>/about-us/</guid>
+      <description>Made by Noehtnap Avalanche is a Minecraft server for people to play on version 1.18. It has a small community with interesting and fun people. The server is crossplay, meaning that both Java and Bedrock Editions can play! The Minecraft server has a dedicated Discord server too! In the Discord server you are able to talk to other players, without being connected to the Minecraft server! There are 3 owners, DaBlaze, Fenny and Dead.</description>
     </item>
     
     <item>
