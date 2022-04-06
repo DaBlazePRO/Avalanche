@@ -6,24 +6,7 @@
     <description>Recent content in Posts on Avalanche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Apr 2022 18:35:18 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Plugins</title>
-      <link>/posts/plugins/</link>
-      <pubDate>Tue, 05 Apr 2022 18:35:18 -0400</pubDate>
-      
-      <guid>/posts/plugins/</guid>
-      <description>Teleport /spawn - Teleports Player to spawn
-/tpayes - Accepts Player Teleport Request
-/tpano - Declines Player Teleport Request
-/tpa off - Disables Teleport Requests
-/tpa on - Enables Teleport Requests
-Paid Commands
-/tpa username - Sends a Request to Player to Teleport to Them
-/tpahere username - Sends Request to Player to Teleport Them to You
-Discord SRV Since this plugin isn&amp;rsquo;t active right now I won&amp;rsquo;t list any commands</description>
-    </item>
-    
+    <lastBuildDate>Tue, 05 Apr 2022 18:33:59 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minecraft</title>
       <link>/posts/minecraft/</link>
