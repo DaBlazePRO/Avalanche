@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/plugins/anti-steal/</loc>
-    <lastmod>2022-04-06T18:19:49-04:00</lastmod>
-  </url><url>
     <loc>/</loc>
+    <lastmod>2022-04-25T18:11:20-04:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-04-25T18:11:20-04:00</lastmod>
+  </url><url>
+    <loc>/posts/spiderman-nwh/</loc>
+    <lastmod>2022-04-25T18:11:20-04:00</lastmod>
+  </url><url>
+    <loc>/posts/the-batman/</loc>
+    <lastmod>2022-04-25T17:51:02-04:00</lastmod>
+  </url><url>
+    <loc>/posts/story/</loc>
+    <lastmod>2022-04-25T17:46:57-04:00</lastmod>
+  </url><url>
+    <loc>/plugins/anti-steal/</loc>
     <lastmod>2022-04-06T18:19:49-04:00</lastmod>
   </url><url>
     <loc>/plugins/</loc>
@@ -15,9 +27,6 @@
     <lastmod>2022-04-06T18:14:22-04:00</lastmod>
   </url><url>
     <loc>/posts/minecraft/</loc>
-    <lastmod>2022-04-05T18:33:59-04:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
     <lastmod>2022-04-05T18:33:59-04:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
